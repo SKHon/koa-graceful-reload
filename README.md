@@ -21,8 +21,6 @@
 3. 平滑重启koa应用【后面跟 主进程的pid】
    koa-hot gracefulReload --pid 11111    
 
-## 验证
-
 ## 开发者
 1. clone代码到本地
    git clone git@github.com:SKHon/koa-graceful-reload.git
