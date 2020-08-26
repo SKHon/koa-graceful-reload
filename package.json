@@ -1,0 +1,24 @@
+{
+  "name": "koa-hot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKHon/koa-graceful-reload.git"
+  },
+  "author": "skhon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SKHon/koa-graceful-reload/issues"
+  },
+  "homepage": "https://github.com/SKHon/koa-graceful-reload#readme",
+  "dependencies": {
+    "commander": "^6.0.0",
+    "koa": "^2.13.0",
+    "koa-router": "^9.4.0"
+  }
+}
